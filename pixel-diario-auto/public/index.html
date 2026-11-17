@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pixel Diario · Noticias, reseñas, eSports y ofertas</title>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+--bg:#eef1f8;--panel:#fff;--ink:#0d1426;--muted:#4f5a75;--line:#cdd5e6;--amber:#a85f00;--cyan:#00718f;--on:#fff;
+--d:"Chakra Petch","Segoe UI",sans-serif;--b:"Barlow","Segoe UI",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#0a0f1e;--panel:#121a30;--ink:#e8edf9;--muted:#98a3c2;--line:#26335a;--amber:#ffb020;--cyan:#33d6ff;--on:#0a0f1e}}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#0a0f1e;--panel:#121a30;--ink:#e8edf9;--muted:#98a3c2;--line:#26335a;--amber:#ffb020;--cyan:#33d6ff;--on:#0a0f1e}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 var(--b)}
+a{color:inherit}:focus-visible{outline:3px solid var(--amber);outline-offset:2px}
+.w{max-width:1100px;margin:0 auto;padding:0 20px}
+.cut{clip-path:polygon(0 0,calc(100% - 14px) 0,100% 14px,100% 100%,14px 100%,0 calc(100% - 14px))}
+.top{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;padding:18px 0 8px}
+.logo{font:700 1.7rem/1 var(--d);margin:0}.logo span{color:var(--amber)}
+input{padding:10px 14px;width:min(100%,280px);background:var(--panel);color:var(--ink);border:2px solid var(--line);font:inherit}
+nav{display:flex;gap:2px;overflow-x:auto;border-bottom:2px solid var(--line)}
+nav a{flex:none;padding:10px 14px;text-decoration:none;color:var(--muted);font-weight:600}nav a:hover{color:var(--amber)}
+h2{font:700 1.6rem/1.1 var(--d);margin:44px 0 6px}.lead{margin:0 0 14px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.card{background:var(--panel);border-top:4px solid var(--cyan);display:flex;flex-direction:column;gap:6px;padding:14px 16px 16px;text-decoration:none}
+.card:hover{border-top-color:var(--amber)}
+.card h3{font:700 1.05rem/1.25 var(--d);margin:0}.card p{margin:0;color:var(--muted);font-size:.93rem}
+.meta{color:var(--muted);font-size:.84rem}
+.deal{padding:0;border-top-color:var(--amber)}.deal img{width:100%;aspect-ratio:460/215;object-fit:cover;background:var(--line)}
+.deal .in{padding:12px 16px 16px;display:flex;flex-direction:column;gap:6px}
+.pct{font:700 1rem var(--d);background:var(--amber);color:var(--on);padding:2px 9px}
+.price{font:700 1.15rem var(--d)}.old{color:var(--muted);text-decoration:line-through;font-size:.88rem;margin-left:6px}
+.btn{display:inline-block;margin-top:4px;padding:8px 14px;background:var(--amber);color:var(--on);font-weight:600;text-decoration:none;width:max-content}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.tab{border:2px solid var(--line);background:var(--panel);color:var(--ink);padding:7px 16px;font:600 .95rem var(--b);cursor:pointer}
+.tab[aria-pressed="true"]{background:var(--amber);border-color:var(--amber);color:var(--on)}
+.stores{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.stores a{padding:7px 14px;border:2px solid var(--cyan);text-decoration:none;font-weight:600;color:var(--cyan)}
+.empty{color:var(--muted);padding:12px 0}
+summary{cursor:pointer;font:700 1.05rem/1.3 var(--d)}details.card p{margin-top:8px}
+.notice{color:var(--muted);font-size:.88rem;margin:10px 0}
+footer{margin:48px 0 32px;color:var(--muted);font-size:.86rem}
+</style>
+</head>
+<body><div class="w">
+<header class="top"><p class="logo">PIXEL<span>DIARIO</span></p><input id="q" type="search" placeholder="Buscar" aria-label="Buscar"></header>
+<nav><a href="#noticias">Noticias</a><a href="#guias">Guías</a><a href="#resenas">Reseñas</a><a href="#esports">eSports</a><a href="#plataformas">Plataformas</a><a href="#ofertas">Ofertas</a></nav>
+<p class="notice" id="stamp">Cargando…</p>
+
+<h2 id="noticias">Últimas noticias</h2><div class="grid" id="news"></div>
+<h2 id="guias">Guías y análisis</h2><p class="lead">Textos propios basados en información pública. No son reseñas jugadas.</p><div class="grid" id="arts"></div>
+<h2 id="resenas">Reseñas</h2><p class="lead">Análisis publicados por medios especializados.</p><div class="grid" id="reviews"></div>
+<h2 id="esports">eSports</h2><div class="grid" id="esports-g"></div>
+
+<h2 id="plataformas">Por plataforma</h2>
+<div class="tabs" id="tabs"></div><div class="stores" id="stores"></div><div class="grid" id="plat"></div>
+
+<h2 id="ofertas">Ofertas</h2>
+<h3>Gratis en Epic Games</h3><div class="grid" id="epic"></div>
+<h3 style="margin-top:28px">Rebajas en Steam</h3><div class="grid" id="steam"></div>
+<h3 style="margin-top:28px">Xbox</h3>
+<p class="lead">No hay una fuente pública estable de precios de Xbox, así que enlazamos a su tienda oficial.</p>
+<div class="stores"><a href="https://www.xbox.com/games/all-games/sales-and-specials" target="_blank" rel="noopener">Ofertas de Xbox</a><a href="https://www.xbox.com/xbox-game-pass" target="_blank" rel="noopener">Game Pass</a></div>
+
+<section id="comunidad" hidden><h2>Comunidad</h2>
+<div id="sub" hidden><h3>Boletín semanal de ofertas</h3><form id="subf" method="post" target="popupwindow" style="display:flex;gap:8px;flex-wrap:wrap"><input type="email" name="email" required placeholder="tu@correo.com" aria-label="Correo"><button class="btn" style="border:0;cursor:pointer">Suscribirme</button></form></div>
+<div id="don" class="stores" style="margin-top:14px"></div></section>
+<footer>Pixel Diario agrega titulares y resúmenes breves con enlace a la fuente original. Los precios pueden cambiar; confirma en la tienda. Algunos enlaces pueden ser de afiliado.</footer>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
+const safe=u=>/^https?:\/\//.test(u||"")?esc(u):"#";
+const fd=d=>d?new Date(d).toLocaleDateString("es",{day:"numeric",month:"short"}):"";
+const money=(n,c)=>{try{return new Intl.NumberFormat("es",{style:"currency",currency:c}).format(n)}catch{return n+" "+c}};
+const STORES={PC:[["Steam","https://store.steampowered.com/specials"],["Epic Games","https://store.epicgames.com/es-ES/free-games"]],
+PlayStation:[["PlayStation Store","https://store.playstation.com/"]],Xbox:[["Xbox","https://www.xbox.com/games/all-games/sales-and-specials"]],Nintendo:[["Nintendo eShop","https://www.nintendo.com/"]]};
+const NEWSLETTER_USER="";                       // tu usuario de Buttondown
+const DONATE={paypal:"",kofi:"",patreon:""};    // pega aquí tus enlaces (https://...)
+let D={items:[],steam:[],epic:{now:[],soon:[]}},plat="PC";
+const card=n=>`<a class="card cut" href="${safe(n.url)}" target="_blank" rel="noopener"><span class="meta">${esc(n.source)} · ${fd(n.date)}</span><h3>${esc(n.title)}</h3><p>${esc(n.text)}</p></a>`;
+const list=(id,arr,n)=>{$(id).innerHTML=arr.length?arr.slice(0,n).map(card).join(""):`<p class="empty">Sin resultados.</p>`};
+function deal(d,free){return `<article class="card deal cut">${d.img?`<img loading="lazy" alt="" src="${safe(d.img)}">`:""}<div class="in"><h3>${esc(d.title)}</h3>
+${free?`<span class="meta">${d.ends?"Gratis hasta el "+fd(d.ends):d.starts?"Gratis desde el "+fd(d.starts):""}</span>`:`<div><span class="pct">−${d.pct} %</span> <span class="price">${money(d.price,d.currency)}</span><span class="old">${money(d.old,d.currency)}</span></div>`}
+<a class="btn" href="${safe(d.url)}" target="_blank" rel="noopener sponsored">${free?"Obtener en Epic":"Ver en Steam"}</a></div></article>`}
+function render(){
+ const q=$("q").value.trim().toLowerCase(),f=a=>a.filter(i=>!q||(i.title+i.text).toLowerCase().includes(q));
+ const all=f(D.items);
+ list("news",all.filter(i=>i.topic==="news"),12);list("reviews",all.filter(i=>i.topic==="reviews"),9);list("esports-g",all.filter(i=>i.topic==="esports"),9);
+ $("tabs").innerHTML=Object.keys(STORES).map(p=>`<button class="tab cut" aria-pressed="${p===plat}" data-p="${p}">${p}</button>`).join("");
+ $("tabs").querySelectorAll("button").forEach(b=>b.onclick=()=>{plat=b.dataset.p;render()});
+ $("stores").innerHTML=STORES[plat].map(s=>`<a href="${s[1]}" target="_blank" rel="noopener">${s[0]} →</a>`).join("");
+ list("plat",all.filter(i=>i.platform===plat&&i.topic!=="esports"),9);
+ const e=D.epic;$("epic").innerHTML=[...e.now.map(x=>deal(x,1)),...e.soon.map(x=>deal(x,1))].join("")||`<p class="empty">Sin datos todavía.</p>`;
+ $("steam").innerHTML=D.steam.map(x=>deal(x,0)).join("")||`<p class="empty">Sin datos todavía.</p>`;
+}
+$("q").addEventListener("input",render);
+fetch("articulos.json").then(r=>r.json()).then(a=>{$("arts").innerHTML=a.map(x=>`<details class="card cut"><summary>${esc(x.title)}<br><span class="meta">${esc(x.tag)} · ${esc(x.date)}</span></summary>${x.body.map(p=>`<p>${esc(p)}</p>`).join("")}<p class="meta">Escrito con Claude a partir de fuentes públicas.</p></details>`).join("")}).catch(()=>{});
+if(NEWSLETTER_USER){$("sub").hidden=false;$("subf").action="https://buttondown.com/api/emails/embed-subscribe/"+NEWSLETTER_USER;$("subf").onsubmit=()=>window.open("https://buttondown.com/"+NEWSLETTER_USER,"popupwindow")}
+const DN={paypal:"Apoyar por PayPal",kofi:"Ko-fi",patreon:"Patreon"};
+$("don").innerHTML=Object.keys(DONATE).filter(k=>DONATE[k]).map(k=>`<a href="${safe(DONATE[k])}" target="_blank" rel="noopener">${DN[k]}</a>`).join("");
+if(NEWSLETTER_USER||$("don").innerHTML)$("comunidad").hidden=false;
+fetch("data.json",{cache:"no-cache"}).then(r=>r.json()).then(d=>{D=d;
+ $("stamp").textContent=d.items?.length?"Actualizado "+new Date(d.generatedAt).toLocaleString("es",{dateStyle:"medium",timeStyle:"short"}):"Aún no hay datos: ejecuta la primera actualización (ver README).";render()})
+ .catch(()=>{$("stamp").textContent="No se pudo cargar data.json.";render()});
+</script></body></html>

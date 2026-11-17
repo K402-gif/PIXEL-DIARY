@@ -1,0 +1,2 @@
+{ "name": "pixel-diario-auto", "version": "1.0.0", "type": "module",
+  "scripts": { "update": "node scripts/update.mjs" }, "engines": { "node": ">=20" } }
