@@ -17,7 +17,6 @@ const FEEDS = [
   { name: "PC Gamer", url: "https://www.pcgamer.com/rss/", platform: "PC" },
   { name: "Eurogamer", url: "https://www.eurogamer.net/feed", platform: "General" },
   { name: "GamesRadar", url: "https://www.gamesradar.com/rss/", platform: "General" },
-  { name: "Dot Esports", url: "https://dotesports.com/feed", platform: "General", topic: "esports" },
   { name: "Esports Insider", url: "https://esportsinsider.com/feed", platform: "General", topic: "esports" },
 ];
 
