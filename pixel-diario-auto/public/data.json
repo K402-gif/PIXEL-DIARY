@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T01:03:53.441Z",
+ "generatedAt": "2026-11-18T01:17:48.401Z",
  "items": [
   {
    "title": "Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'",
@@ -1310,17 +1310,6 @@
  "steam": [
   {
    "store": "Steam",
-   "title": "Kingdom Come: Deliverance II",
-   "pct": 67,
-   "old": 59.99,
-   "price": 19.79,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
-   "url": "https://store.steampowered.com/app/1771300/",
-   "ends": "2026-11-30T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
    "title": "Bodycam",
    "pct": 20,
    "old": 33.32,
@@ -1329,6 +1318,17 @@
    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg?t=1794951323",
    "url": "https://store.steampowered.com/app/2406770/",
    "ends": "2026-11-20T21:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "Kingdom Come: Deliverance II",
+   "pct": 67,
+   "old": 59.99,
+   "price": 19.79,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+   "url": "https://store.steampowered.com/app/1771300/",
+   "ends": "2026-11-30T18:00:00.000Z"
   },
   {
    "store": "Steam",
@@ -1409,14 +1409,14 @@
   },
   {
    "store": "Steam",
-   "title": "Dungeonbound",
-   "pct": 10,
-   "old": 11.49,
-   "price": 10.34,
+   "title": "Call of Duty®: WWII",
+   "pct": 75,
+   "old": 59.99,
+   "price": 14.99,
    "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1794917663",
-   "url": "https://store.steampowered.com/app/5200620/",
-   "ends": "2026-11-30T18:00:28.000Z"
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476600/header.jpg?t=1780963893",
+   "url": "https://store.steampowered.com/app/476600/",
+   "ends": "2026-12-01T18:00:00.000Z"
   }
  ],
  "epic": {
