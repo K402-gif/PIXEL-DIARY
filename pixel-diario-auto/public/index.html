@@ -40,6 +40,10 @@ h2{font:700 1.6rem/1.1 var(--d);margin:44px 0 6px}.lead{margin:0 0 14px;color:va
 .empty{color:var(--muted);padding:12px 0}
 summary{cursor:pointer;font:700 1.05rem/1.3 var(--d)}details.card p{margin-top:8px}
 .notice{color:var(--muted);font-size:.88rem;margin:10px 0}
+.hero{margin:18px 0 6px;padding:clamp(20px,5vw,40px);background:var(--panel);border-left:6px solid var(--amber)}
+.hero h1{font:700 clamp(1.8rem,5vw,3rem)/1.05 var(--d);margin:0 0 8px}.hero p{margin:0;color:var(--muted)}
+.count{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}.count div{min-width:78px;padding:10px 14px;border:2px solid var(--line);text-align:center}
+.count b{display:block;font:700 2rem/1 var(--d);color:var(--amber);font-variant-numeric:tabular-nums}.count small{color:var(--muted)}
 footer{margin:48px 0 32px;color:var(--muted);font-size:.86rem}
 </style>
 </head>
@@ -48,6 +52,7 @@ footer{margin:48px 0 32px;color:var(--muted);font-size:.86rem}
 <nav><a href="#noticias">Noticias</a><a href="#guias">Guías</a><a href="#resenas">Reseñas</a><a href="#esports">eSports</a><a href="#plataformas">Plataformas</a><a href="#ofertas">Ofertas</a></nav>
 <p class="notice" id="stamp">Cargando…</p>
 
+<section class="hero cut" aria-labelledby="ht"><h1 id="ht">GTA VI llega el 19 de noviembre</h1><p>Sale en PS5 y Xbox Series X|S.</p><div class="count" id="count"></div></section>
 <h2 id="noticias">Últimas noticias</h2><div class="grid" id="news"></div>
 <h2 id="guias">Guías y análisis</h2><p class="lead">Textos propios basados en información pública. No son reseñas jugadas.</p><div class="grid" id="arts"></div>
 <h2 id="resenas">Reseñas</h2><p class="lead">Análisis publicados por medios especializados.</p><div class="grid" id="reviews"></div>
@@ -77,7 +82,7 @@ const money=(n,c)=>{try{return new Intl.NumberFormat("es",{style:"currency",curr
 const STORES={PC:[["Steam","https://store.steampowered.com/specials"],["Epic Games","https://store.epicgames.com/es-ES/free-games"]],
 PlayStation:[["PlayStation Store","https://store.playstation.com/"]],Xbox:[["Xbox","https://www.xbox.com/games/all-games/sales-and-specials"]],Nintendo:[["Nintendo eShop","https://www.nintendo.com/"]]};
 const NEWSLETTER_USER="";                       // tu usuario de Buttondown
-const DONATE={paypal:"",kofi:"",patreon:""};    // pega aquí tus enlaces (https://...)
+const DONATE={paypal:"https://paypal.me/Wdog807",kofi:"https://ko-fi.com/k402gif",patreon:""};    // pega aquí tus enlaces (https://...)
 let D={items:[],steam:[],epic:{now:[],soon:[]}},plat="PC";
 const card=n=>`<a class="card cut" href="${safe(n.url)}" target="_blank" rel="noopener"><span class="meta">${esc(n.source)} · ${fd(n.date)}</span><h3>${esc(n.title)}</h3><p>${esc(n.text)}</p></a>`;
 const list=(id,arr,n)=>{$(id).innerHTML=arr.length?arr.slice(0,n).map(card).join(""):`<p class="empty">Sin resultados.</p>`};
@@ -95,6 +100,11 @@ function render(){
  const e=D.epic;$("epic").innerHTML=[...e.now.map(x=>deal(x,1)),...e.soon.map(x=>deal(x,1))].join("")||`<p class="empty">Sin datos todavía.</p>`;
  $("steam").innerHTML=D.steam.map(x=>deal(x,0)).join("")||`<p class="empty">Sin datos todavía.</p>`;
 }
+function tick(){const ms=new Date(2026,10,19,0,0,0)-new Date();
+ if(ms<=0){$("ht").textContent="GTA VI ya está disponible";$("count").innerHTML="";return}
+ const s=Math.floor(ms/1000),v=[[Math.floor(s/86400),"días"],[Math.floor(s%86400/3600),"horas"],[Math.floor(s%3600/60),"min"],[s%60,"seg"]];
+ $("count").innerHTML=v.map(x=>`<div><b>${String(x[0]).padStart(2,"0")}</b><small>${x[1]}</small></div>`).join("")}
+tick();setInterval(tick,1000);
 $("q").addEventListener("input",render);
 fetch("articulos.json").then(r=>r.json()).then(a=>{$("arts").innerHTML=a.map(x=>`<details class="card cut"><summary>${esc(x.title)}<br><span class="meta">${esc(x.tag)} · ${esc(x.date)}</span></summary>${x.body.map(p=>`<p>${esc(p)}</p>`).join("")}<p class="meta">Escrito con Claude a partir de fuentes públicas.</p></details>`).join("")}).catch(()=>{});
 if(NEWSLETTER_USER){$("sub").hidden=false;$("subf").action="https://buttondown.com/api/emails/embed-subscribe/"+NEWSLETTER_USER;$("subf").onsubmit=()=>window.open("https://buttondown.com/"+NEWSLETTER_USER,"popupwindow")}
