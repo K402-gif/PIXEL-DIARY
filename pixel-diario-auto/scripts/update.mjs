@@ -11,7 +11,7 @@ const AFF = { Steam: process.env.AFF_STEAM || "", Epic: process.env.AFF_EPIC || 
 
 // Fuentes RSS. Comprueba que cada URL sigue activa; las que fallen se omiten sin romper el resto.
 const FEEDS = [
-  { name: "Xbox Wire", url: "https://news.xbox.com/en-us/feed/", platform: "Xbox" },
+  { name: "Pure Xbox", url: "https://www.purexbox.com/feeds/latest", platform: "Xbox" },
   { name: "PlayStation Blog", url: "https://blog.playstation.com/feed/", platform: "PlayStation" },
   { name: "Nintendo Life", url: "https://www.nintendolife.com/feeds/latest", platform: "Nintendo" },
   { name: "PC Gamer", url: "https://www.pcgamer.com/rss/", platform: "PC" },
