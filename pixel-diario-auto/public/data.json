@@ -1,6 +1,33 @@
 {
- "generatedAt": "2026-11-21T22:42:07.318Z",
+ "generatedAt": "2026-11-22T04:40:12.044Z",
  "items": [
+  {
+   "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+   "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+   "date": "2026-11-22T03:03:45.000Z",
+   "text": "Her book's being written by award-winning author Tasha Suri.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "\"We’re Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
+   "url": "https://www.nintendolife.com/news/2026/11/were-going-bananas-for-our-newest-furry-friend-donkey-kong-out-now-on-build-a-bear-workshop",
+   "date": "2026-11-22T00:00:00.000Z",
+   "text": "Pauline when? : We understand GTA 6 is a big deal, but Build-A-Bear Workshop has also teased some important news this week. On its official Instagram page , the store where you build your ow",
+   "source": "Nintendo Life",
+   "platform": "Nintendo",
+   "topic": "news"
+  },
+  {
+   "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
+   "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
+   "date": "2026-11-21T23:40:42.000Z",
+   "text": "You gotta hand it to them, but the payout sounds like it would have been small potatoes to the company.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
   {
    "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
    "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
@@ -20,10 +47,10 @@
    "topic": "news"
   },
   {
-   "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
+   "title": "GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?",
    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
    "date": "2026-11-21T20:32:43.000Z",
-   "text": "In the Chapter 5 mission, should you meet with your lawyer now or wait and do it later?",
+   "text": "Meet with your lawyer or wait and do it later?",
    "source": "PC Gamer",
    "platform": "PC",
    "topic": "news"
@@ -614,24 +641,6 @@
    "topic": "news"
   },
   {
-   "title": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster/",
-   "date": "2026-11-20T21:52:04.000Z",
-   "text": "Pep up their step.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
-   "date": "2026-11-20T20:41:34.000Z",
-   "text": "It's easier to make successful games when you hold onto the people who know how.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
    "title": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day",
    "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
    "date": "2026-11-20T20:00:40.000Z",
@@ -1100,15 +1109,6 @@
    "topic": "news"
   },
   {
-   "title": "Guide: 50 Best Wii Games Of All Time",
-   "url": "https://www.nintendolife.com/guides/50-best-wii-games-of-all-time",
-   "date": "2026-11-19T10:00:00.000Z",
-   "text": "Our guide to the best games on Wii. 19th November 2026 marks the 20th anniversary of Wii's Japanese launch, so it's the perfect time to revisit our list of the best games on the system. Keep",
-   "source": "Nintendo Life",
-   "platform": "Nintendo",
-   "topic": "news"
-  },
-  {
    "title": "Fnatic confirms Razork exit as Lospa’s SK Gaming move deepens 2027 rebuild",
    "url": "https://esportsinsider.com/2026/11/fnatic-confirms-razork-exit-as-lospas-sk-gaming-move-deepens-2027-rebuild",
    "date": "2026-11-19T08:28:25.000Z",
@@ -1310,6 +1310,17 @@
  "steam": [
   {
    "store": "Steam",
+   "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+   "pct": 82,
+   "old": 39.99,
+   "price": 7.19,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+   "url": "https://store.steampowered.com/app/1462040/",
+   "ends": "2026-12-02T18:00:00.000Z"
+  },
+  {
+   "store": "Steam",
    "title": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
    "pct": 50,
    "old": 59.99,
@@ -1343,24 +1354,13 @@
   },
   {
    "store": "Steam",
-   "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-   "pct": 82,
-   "old": 39.99,
-   "price": 7.19,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-   "url": "https://store.steampowered.com/app/1462040/",
-   "ends": "2026-12-02T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "Marvel’s Spider-Man Remastered",
+   "title": "God of War",
    "pct": 60,
-   "old": 59.99,
-   "price": 23.99,
+   "old": 49.99,
+   "price": 19.99,
    "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
-   "url": "https://store.steampowered.com/app/1817070/",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+   "url": "https://store.steampowered.com/app/1593500/",
    "ends": "2026-12-01T18:00:00.000Z"
   },
   {
@@ -1376,25 +1376,14 @@
   },
   {
    "store": "Steam",
-   "title": "God of War",
+   "title": "Marvel’s Spider-Man Remastered",
    "pct": 60,
-   "old": 49.99,
-   "price": 19.99,
+   "old": 59.99,
+   "price": 23.99,
    "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-   "url": "https://store.steampowered.com/app/1593500/",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+   "url": "https://store.steampowered.com/app/1817070/",
    "ends": "2026-12-01T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "Gears of War: E-Day",
-   "pct": 30,
-   "old": 69.99,
-   "price": 48.99,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1794241534",
-   "url": "https://store.steampowered.com/app/3010850/",
-   "ends": "2026-12-02T18:00:00.000Z"
   },
   {
    "store": "Steam",
@@ -1417,6 +1406,17 @@
    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
    "url": "https://store.steampowered.com/app/5037200/",
    "ends": "2026-11-24T18:00:18.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "The Last of Us™ Parte II Remastered",
+   "pct": 33,
+   "old": 49.99,
+   "price": 33.49,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+   "url": "https://store.steampowered.com/app/2531310/",
+   "ends": "2026-12-01T18:00:00.000Z"
   }
  ],
  "epic": {
@@ -1449,7 +1449,7 @@
     "title": "Eternal Threads",
     "img": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg",
     "url": "https://store.epicgames.com/es-ES/p/eternal-threads-197169",
-    "starts": "2026-11-27T16:00:00.000Z"
+    "starts": "2026-12-10T16:00:00.000Z"
    },
    {
     "store": "Epic",
