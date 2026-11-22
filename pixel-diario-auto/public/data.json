@@ -1,6 +1,15 @@
 {
- "generatedAt": "2026-11-22T04:40:12.044Z",
+ "generatedAt": "2026-11-22T08:51:27.472Z",
  "items": [
+  {
+   "title": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+   "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+   "date": "2026-11-22T07:00:00.000Z",
+   "text": "The producer's pick 'Pangoro' missed out. Famous Japanese game director and producer Katsuhiro Harada, known for the Bandai Namco series Tekken , has revealed a Pokémon he wanted to add to t",
+   "source": "Nintendo Life",
+   "platform": "Nintendo",
+   "topic": "news"
+  },
   {
    "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
    "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
@@ -1091,15 +1100,6 @@
    "topic": "news"
   },
   {
-   "title": "Round Up: Spare A Thought For These Games Launching On ’GTA 6 Day’",
-   "url": "https://www.nintendolife.com/news/2026/11/round-up-spare-a-thought-for-these-games-launching-on-gta-6-day",
-   "date": "2026-11-19T11:45:00.000Z",
-   "text": "Wait, there are OTHER games?? We interrupt your Grand Theft Auto 6 playtime to bring you the following announcement: there are more games launching today. Yes, while 19th November 2026 will ",
-   "source": "Nintendo Life",
-   "platform": "Nintendo",
-   "topic": "news"
-  },
-  {
    "title": "Five Xbox Games Are Releasing Today, Including The Big One You Probably Know About (November 19)",
    "url": "https://www.purexbox.com/news/2026/11/five-xbox-games-are-releasing-today-including-the-big-one-you-probably-know-about-november-19",
    "date": "2026-11-19T11:00:00.000Z",
@@ -1310,28 +1310,6 @@
  "steam": [
   {
    "store": "Steam",
-   "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-   "pct": 82,
-   "old": 39.99,
-   "price": 7.19,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-   "url": "https://store.steampowered.com/app/1462040/",
-   "ends": "2026-12-02T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
-   "pct": 50,
-   "old": 59.99,
-   "price": 29.99,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
-   "url": "https://store.steampowered.com/app/2215430/",
-   "ends": "2026-12-01T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
    "title": "FINAL FANTASY VII REBIRTH",
    "pct": 85,
    "old": 49.99,
@@ -1354,13 +1332,35 @@
   },
   {
    "store": "Steam",
-   "title": "God of War",
-   "pct": 60,
-   "old": 49.99,
-   "price": 19.99,
+   "title": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+   "pct": 50,
+   "old": 59.99,
+   "price": 29.99,
    "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-   "url": "https://store.steampowered.com/app/1593500/",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+   "url": "https://store.steampowered.com/app/2215430/",
+   "ends": "2026-12-01T18:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+   "pct": 82,
+   "old": 39.99,
+   "price": 7.19,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+   "url": "https://store.steampowered.com/app/1462040/",
+   "ends": "2026-12-02T18:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "Marvel’s Spider-Man Remastered",
+   "pct": 60,
+   "old": 59.99,
+   "price": 23.99,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+   "url": "https://store.steampowered.com/app/1817070/",
    "ends": "2026-12-01T18:00:00.000Z"
   },
   {
@@ -1376,14 +1376,25 @@
   },
   {
    "store": "Steam",
-   "title": "Marvel’s Spider-Man Remastered",
-   "pct": 60,
-   "old": 59.99,
-   "price": 23.99,
+   "title": "Crimson Desert Enhanced",
+   "pct": 20,
+   "old": 69.99,
+   "price": 55.99,
    "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
-   "url": "https://store.steampowered.com/app/1817070/",
-   "ends": "2026-12-01T18:00:00.000Z"
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1794478066",
+   "url": "https://store.steampowered.com/app/3321460/",
+   "ends": "2026-11-30T08:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "Kingdom Come: Deliverance II",
+   "pct": 67,
+   "old": 59.99,
+   "price": 19.79,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+   "url": "https://store.steampowered.com/app/1771300/",
+   "ends": "2026-11-30T18:00:00.000Z"
   },
   {
    "store": "Steam",
@@ -1398,25 +1409,14 @@
   },
   {
    "store": "Steam",
-   "title": "just volleyball",
-   "pct": 38,
-   "old": 7.79,
-   "price": 4.82,
+   "title": "ARC Raiders",
+   "pct": 50,
+   "old": 39.99,
+   "price": 19.99,
    "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-   "url": "https://store.steampowered.com/app/5037200/",
-   "ends": "2026-11-24T18:00:18.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "The Last of Us™ Parte II Remastered",
-   "pct": 33,
-   "old": 49.99,
-   "price": 33.49,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
-   "url": "https://store.steampowered.com/app/2531310/",
-   "ends": "2026-12-01T18:00:00.000Z"
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/41ee6c5c81a5797132879892586465b917acc563/header_alt_assets_9.jpg?t=1794215815",
+   "url": "https://store.steampowered.com/app/1808500/",
+   "ends": "2026-12-03T17:00:00.000Z"
   }
  ],
  "epic": {
@@ -1442,14 +1442,14 @@
     "title": "Bread and Fred",
     "img": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
     "url": "https://store.epicgames.com/es-ES/p/bread-and-fred-1db362",
-    "starts": "2026-11-26T16:00:00.000Z"
+    "starts": "2026-12-10T16:00:00.000Z"
    },
    {
     "store": "Epic",
     "title": "Eternal Threads",
     "img": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg",
     "url": "https://store.epicgames.com/es-ES/p/eternal-threads-197169",
-    "starts": "2026-12-10T16:00:00.000Z"
+    "starts": "2026-11-27T16:00:00.000Z"
    },
    {
     "store": "Epic",
