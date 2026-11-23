@@ -1,6 +1,24 @@
 {
- "generatedAt": "2026-11-22T23:06:31.009Z",
+ "generatedAt": "2026-11-23T05:16:51.360Z",
  "items": [
+  {
+   "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
+   "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
+   "date": "2026-11-23T01:11:23.000Z",
+   "text": "\"Woke up to a shit show,\" Edmund McMillen wrote.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "reviews"
+  },
+  {
+   "title": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria",
+   "url": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/",
+   "date": "2026-11-23T00:07:24.000Z",
+   "text": "Let the war begin.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
   {
    "title": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work",
    "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
@@ -416,6 +434,15 @@
    "topic": "news"
   },
   {
+   "title": "Fatal Fury: City Of The Wolves Adds Laocorn From The Motion Picture",
+   "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture",
+   "date": "2026-11-22T04:00:00.000Z",
+   "text": "Reminder: The Fatal Fury movie antagonist is now available. : SNK's expansion of the Fatal Fury: City of the Wolves roster will continue with the release of Laocorn next week on 19th Novembe",
+   "source": "Nintendo Life",
+   "platform": "Nintendo",
+   "topic": "news"
+  },
+  {
    "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
    "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
    "date": "2026-11-22T03:03:45.000Z",
@@ -479,30 +506,12 @@
    "topic": "news"
   },
   {
-   "title": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
-   "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
-   "date": "2026-11-21T18:00:00.000Z",
-   "text": "\"You can't help but take it a little bit personally\".",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
    "title": "\"Let's do with witches what I did with Assassins!\": AC pioneer on making 1666: Amsterdam",
    "url": "https://www.gamesradar.com/games/rpg/lets-do-with-witches-what-i-did-with-assassins-patrice-desilets-assassins-creed-pioneer-on-ongoing-making-of-1666-amsterdam/",
    "date": "2026-11-21T18:00:00.000Z",
    "text": "From Ezio Auditore to 17th century witch hunts, Patrice Désilets talks 1666 Amsterdam's devilish origins, everchanging mechanics, and the process of making a game with a community",
    "source": "GamesRadar",
    "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "How to steal the BF Bandito in GTA 6",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
-   "date": "2026-11-21T17:34:25.000Z",
-   "text": "Track down this white off-roader for Moses.",
-   "source": "PC Gamer",
-   "platform": "PC",
    "topic": "news"
   },
   {
@@ -1082,15 +1091,6 @@
    "topic": "news"
   },
   {
-   "title": "Ubisoft Is Laying Off Staff From Two Of Its Biggest Studios",
-   "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
-   "date": "2026-11-19T18:00:00.000Z",
-   "text": "GuilleMORE?! Ubisoft has confirmed that it is laying off a total of 166 members of staff from its Canadian offices. The teams affected, Ubisoft Montréal and Ubisoft Québec, are arguably two ",
-   "source": "Nintendo Life",
-   "platform": "Nintendo",
-   "topic": "news"
-  },
-  {
    "title": "’Gears & GTA 6 May Have Provided A Temporary Reprieve’ - Xbox Hardware Sales Get A Major Surge In The US",
    "url": "https://www.purexbox.com/news/2026/11/gears-and-gta-6-may-have-provided-a-temporary-reprieve-xbox-hardware-sales-get-a-major-surge-in-the-us",
    "date": "2026-11-19T15:45:00.000Z",
@@ -1354,6 +1354,17 @@
   },
   {
    "store": "Steam",
+   "title": "Marvel’s Spider-Man Remastered",
+   "pct": 60,
+   "old": 59.99,
+   "price": 23.99,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+   "url": "https://store.steampowered.com/app/1817070/",
+   "ends": "2026-12-01T18:00:00.000Z"
+  },
+  {
+   "store": "Steam",
    "title": "Forza Horizon 6",
    "pct": 25,
    "old": 69.99,
@@ -1365,6 +1376,39 @@
   },
   {
    "store": "Steam",
+   "title": "God of War",
+   "pct": 60,
+   "old": 49.99,
+   "price": 19.99,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+   "url": "https://store.steampowered.com/app/1593500/",
+   "ends": "2026-12-01T18:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "Crimson Desert Enhanced",
+   "pct": 20,
+   "old": 69.99,
+   "price": 55.99,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1794478066",
+   "url": "https://store.steampowered.com/app/3321460/",
+   "ends": "2026-11-30T08:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "Kingdom Come: Deliverance II",
+   "pct": 67,
+   "old": 59.99,
+   "price": 19.79,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+   "url": "https://store.steampowered.com/app/1771300/",
+   "ends": "2026-11-30T18:00:00.000Z"
+  },
+  {
+   "store": "Steam",
    "title": "just volleyball",
    "pct": 38,
    "old": 7.79,
@@ -1373,50 +1417,6 @@
    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
    "url": "https://store.steampowered.com/app/5037200/",
    "ends": "2026-11-24T18:00:18.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "Marvel's Spider-Man 2",
-   "pct": 33,
-   "old": 59.99,
-   "price": 40.19,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
-   "url": "https://store.steampowered.com/app/2651280/",
-   "ends": "2026-12-01T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "Horizon Forbidden West™ Complete Edition",
-   "pct": 50,
-   "old": 59.99,
-   "price": 29.99,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg?t=1789585745",
-   "url": "https://store.steampowered.com/app/2420110/",
-   "ends": "2026-12-01T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "Call of Duty®: Black Ops III",
-   "pct": 75,
-   "old": 59.99,
-   "price": 14.99,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
-   "url": "https://store.steampowered.com/app/311210/",
-   "ends": "2026-12-01T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "Days Gone",
-   "pct": 67,
-   "old": 39.99,
-   "price": 13.19,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
-   "url": "https://store.steampowered.com/app/1259420/",
-   "ends": "2026-12-01T18:00:00.000Z"
   }
  ],
  "epic": {
