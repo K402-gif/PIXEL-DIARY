@@ -1,6 +1,519 @@
 {
- "generatedAt": "2026-11-23T05:16:51.360Z",
+ "generatedAt": "2026-11-23T17:08:00.090Z",
  "items": [
+  {
+   "title": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC",
+   "url": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
+   "date": "2026-11-23T17:06:40.000Z",
+   "text": "As Dawn of War 4 's December release date inches ever closer, a new trailer appears to have teased a fan-favourite character's inclusion in the RTS's first post-launch DLC. Read more",
+   "source": "Eurogamer",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "It's not technically a GTA 6 deal, but this PS Store gift card discount will save you £10 on the new game",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/its-not-technically-a-gta-6-deal-but-this-ps-store-gift-card-discount-will-save-you-gbp10-on-the-new-game-or-any-other-game-you-want/",
+   "date": "2026-11-23T17:00:24.000Z",
+   "text": "ShopTo is selling £70 PlayStation Store gift cards for £60. Since that's the price of GTA 6, you can use it to pick up the title for a 13% saving.",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
+   "date": "2026-11-23T16:39:01.000Z",
+   "text": "GTA 6 Xbox EXE triggers new wave of recompilation work",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Report: Major Details Revealed About Xbox’s Original Plan For Project Helix",
+   "url": "https://www.purexbox.com/news/2026/11/report-major-details-revealed-about-xboxs-original-plan-for-project-helix",
+   "date": "2026-11-23T16:35:00.000Z",
+   "text": "\"Xbox Helix’s original plan was far more radical than we knew\". We've been hearing about Xbox's Project Helix console for some time now, with Xbox always talking very vaguely about what we c",
+   "source": "Pure Xbox",
+   "platform": "Xbox",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6 is a \"last of its kind\" AAA game execs won't be trying to copy, analyst says",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-last-of-its-kind-aaa-game-execs-wont-be-trying-to-copy-analyst-says-because-theyve-learned-you-cant-make-the-next-fortnite-or-a-world-of-warcraft-killer/",
+   "date": "2026-11-23T16:28:47.000Z",
+   "text": "Rockstar's always a tough act to follow, anyway",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Getting Final Fantasy 7 away from Nintendo was former PlayStation boss's proudest moment",
+   "url": "https://www.gamesradar.com/games/final-fantasy/getting-final-fantasy-7-away-from-nintendo-was-former-playstation-bosss-proudest-moment/",
+   "date": "2026-11-23T16:28:13.000Z",
+   "text": "\"When I started in [the] third party department, our goal was to get all of the popular IPs from video game publishers to be on PlayStation.\"",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6's Lucia is \"long overdue,\" ex-Rockstar dev says, as representation of women hasn't \"been good\"",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-lucia-is-long-overdue-og-grand-theft-auto-lead-says-because-rockstars-representation-of-women-has-not-been-good/",
+   "date": "2026-11-23T16:23:54.000Z",
+   "text": "A sign of \"maturation\"",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "How to find the serial killer in GTA 6",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/",
+   "date": "2026-11-23T16:22:00.000Z",
+   "text": "Find a serial killer in GTA 6 when you locate three missing tourists in Port Gellhorn",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "This fan-made map shows why Queen's Domain is the true GOTY, and you can even upload your save to it to track the things you have left to find",
+   "url": "https://www.pcgamer.com/games/rpg/this-fan-made-map-shows-why-queens-domain-is-the-true-goty-and-you-can-even-upload-your-save-to-it-to-track-the-things-you-have-left-to-find/",
+   "date": "2026-11-23T16:11:47.000Z",
+   "text": "Cartographic miracles.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "60 hours in GTA 6 has me yearning for an online Leonida",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/60-hours-in-gta-6-has-me-yearning-for-an-online-leonida/",
+   "date": "2026-11-23T16:02:42.000Z",
+   "text": "Leonida deserves to be explored with friends.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "Activision Dons Itself The Home Of Banjo-Kazooie In New Job Listing",
+   "url": "https://www.purexbox.com/news/2026/11/activision-dons-itself-the-home-of-banjo-kazooie-in-new-job-listing",
+   "date": "2026-11-23T16:00:00.000Z",
+   "text": "\"and now… Halo, Age of Empires, Sea of Thieves, and Banjo Kazooie\". Back in September, Xbox officially announced its reorganisation plans for legendary studio Rare, moving it under Activisio",
+   "source": "Pure Xbox",
+   "platform": "Xbox",
+   "topic": "news"
+  },
+  {
+   "title": "$900 off this Alienware 16 Aurora brings us Dell's cheapest gaming laptop deal of the Black Friday so far",
+   "url": "https://www.gamesradar.com/hardware/laptops/usd900-off-this-alienware-16-aurora-brings-us-dells-cheapest-gaming-laptop-deal-of-the-black-friday-so-far/",
+   "date": "2026-11-23T15:51:07.000Z",
+   "text": "Dell has discounted a range of Alienware gear ahead of Black Friday, including its 16 Aurora laptop which is enjoying a $900 discount for certain configurations.",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Avengers: Doomsday trailer pokes fun at how much the MCU has changed since Endgame",
+   "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer-pokes-fun-at-how-much-the-mcu-has-changed-since-endgame-i-dont-even-know-who-half-of-you-are/",
+   "date": "2026-11-23T15:39:17.000Z",
+   "text": "Avengers: Doomsday hits theaters on December 18",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "World of Warcraft: Forever review: The first proper MMO adventure I've been on in years",
+   "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/",
+   "date": "2026-11-23T15:36:34.000Z",
+   "text": "A second wind for old-school MMOs that has me hooked.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "reviews"
+  },
+  {
+   "title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+   "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
+   "date": "2026-11-23T15:22:30.000Z",
+   "text": "Rockstar just issued a new patch for GTA 6 on PlayStation 5 and Xbox Series X/S, targeting a few issues players have been reporting since the game launched last Thursday (19th November). Rea",
+   "source": "Eurogamer",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Avengers: Doomsday final trailer has convinced me Steve Rogers got the bad ending in Endgame",
+   "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-final-trailer-has-convinced-me-steve-rogers-got-the-bad-ending-in-endgame/",
+   "date": "2026-11-23T15:13:53.000Z",
+   "text": "This is what it's like when worlds collide",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Trump praises Jensen Huang's reinstatement as Nvidia CEO, calls him a 'great patriot and national treasure,' while Musk says 'the mistake has been corrected'",
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/trump-praises-jensen-huangs-reinstatement-as-nvidia-ceo-calls-him-a-great-patriot-and-national-treasure-while-musk-says-the-mistake-has-been-corrected/",
+   "date": "2026-11-23T15:09:09.000Z",
+   "text": "\"The Nvidia Board of Directors has made the correct and proper decision,\" says the US president.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "Avengers: Doomsday final trailer breakdown: 14 Marvel details you might have missed",
+   "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-final-trailer-breakdown/",
+   "date": "2026-11-23T15:04:24.000Z",
+   "text": "The final Avengers: Doomsday trailer has arrived, and it's massive",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6 update gives players losing progress to crashes a lifeline",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-gives-players-losing-progress-to-crashes-a-lifeline-and-it-looks-like-the-first-person-and-60fps-glitches-are-safe-for-now/",
+   "date": "2026-11-23T15:01:39.000Z",
+   "text": "Plus other handy fixes and improvements",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Nvidia makes stunning decision to reinstate Jensen Huang as CEO",
+   "url": "https://www.eurogamer.net/nvidia-jensen-huang-ceo-reinstated-affair",
+   "date": "2026-11-23T15:01:00.000Z",
+   "text": "Gaming tech giant Nvidia has decided to reinstate Jensen Huang as its president and CEO, despite allegedly saying it wouldn't, and despite a string of extramarital affairs and investigations",
+   "source": "Eurogamer",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
+   "url": "https://www.eurogamer.net/gta-6-car-theft-gamified",
+   "date": "2026-11-23T14:58:20.000Z",
+   "text": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectation",
+   "source": "Eurogamer",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Should you choose the cut or pure drugs in GTA 6?",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cut-or-pure-dealers-choice/",
+   "date": "2026-11-23T14:56:37.000Z",
+   "text": "Sell the baby powder-spliced product or real deal in the Dealer's Choice mission.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
+   "url": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
+   "date": "2026-11-23T14:50:00.000Z",
+   "text": "Update: We've got the deets from Rockstar. GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series ",
+   "source": "Pure Xbox",
+   "platform": "Xbox",
+   "topic": "news"
+  },
+  {
+   "title": "Nvidia reinstates Jensen Huang as CEO after \"input from senior levels of the US government\"",
+   "url": "https://www.gamesradar.com/games/nvidia-reinstates-jensen-huang-as-ceo-after-input-from-senior-levels-of-the-united-states-government/",
+   "date": "2026-11-23T14:41:30.000Z",
+   "text": "Huang says \"I am grateful for the love and support of my family\"",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6 goth girl Vicki already has thirsty fans forgetting about possible serial killer Mandy",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-vicki-already-has-thirsty-fans-forgetting-about-possible-serial-killer-mandy-we-love-our-swamp-goth/",
+   "date": "2026-11-23T14:38:51.000Z",
+   "text": "Rockstar's got players a little distracted",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Jensen Huang has been reinstated as Nvidia CEO: 'I take this responsibility with the greatest humility and renewed commitment'",
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-has-been-reinstated-as-nvidia-ceo-i-take-this-responsibility-with-the-greatest-humility-and-renewed-commitment/",
+   "date": "2026-11-23T14:30:41.000Z",
+   "text": "That was quick.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "Dragon Age's former boss explains that poor management from EA led to BioWare shutting down because 'the options on the table were all terrible'",
+   "url": "https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/",
+   "date": "2026-11-23T14:30:08.000Z",
+   "text": "\"Did they make us make Dragon Age 2? No. But they made us do something.\"",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "Activision calls itself \"home\" to Banjo-Kazooie, advertises role for \"upcoming\" game in same breath",
+   "url": "https://www.gamesradar.com/games/platformer/activision-calls-itself-home-to-banjo-kazooie-advertises-role-for-upcoming-premium-console-and-pc-title-in-same-breath/",
+   "date": "2026-11-23T14:22:25.000Z",
+   "text": "New Banjo-Kazooie, anyone?",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Jensen Huang Has Been Reinstated As Nvidia’s President And CEO",
+   "url": "https://www.nintendolife.com/news/2026/11/jensen-huang-has-been-reinstated-as-nvidias-president-and-ceo",
+   "date": "2026-11-23T14:20:00.000Z",
+   "text": "Company produces custom processor for Switch 2. Nvidia, one of the largest tech firms in the world and the company responsible for the Switch 2's custom processor, has found itself embroiled",
+   "source": "Nintendo Life",
+   "platform": "Nintendo",
+   "topic": "news"
+  },
+  {
+   "title": "How to find Jet Ski Dog in GTA 6 and get rescued at sea",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/",
+   "date": "2026-11-23T14:18:46.000Z",
+   "text": "The GTA 6 Cool Dog will help you out of the ocean, and has a big cash bonus for you as well",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch",
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox",
+   "date": "2026-11-23T14:12:00.000Z",
+   "text": "Grand Theft Auto 6 runs at 30 frames-per-second across all the consoles it's currently available on , including the more powerful PlayStation 5 Pro . The game doesn't offer a 60fps performan",
+   "source": "Eurogamer",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Steve Rogers returns to action in final Avengers: Doomsday trailer",
+   "url": "https://www.gamesradar.com/entertainment/marvel-movies/steve-rogers-returns-to-action-in-final-avengers-doomsday-trailer-that-sees-robert-downey-jr-s-doctor-doom-want-revenge-on-earths-mightiest-heroes/",
+   "date": "2026-11-23T14:09:48.000Z",
+   "text": "A new look at Avengers: Doomsday has dropped",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Fantasy RPG ’Sovereign Tower’ Brings Some Round Table Management To Switch Next Year",
+   "url": "https://www.nintendolife.com/news/2026/11/fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-switch-next-year",
+   "date": "2026-11-23T14:00:00.000Z",
+   "text": "Knight's watch. Sovereign Tower launched on Steam earlier this year and quickly picked up its fair share of fans for its wacky round table management. Today, developer Wild Wits and publishe",
+   "source": "Nintendo Life",
+   "platform": "Nintendo",
+   "topic": "news"
+  },
+  {
+   "title": "Shang-Chi star Simu Liu says GTA 6's Lucia will appreciate you buying Avengers: Doomsday tickets",
+   "url": "https://www.gamesradar.com/entertainment/marvel-movies/shang-chi-star-simu-liu-says-gta-6s-lucia-will-appreciate-you-buying-avengers-doomsday-tickets/",
+   "date": "2026-11-23T13:56:42.000Z",
+   "text": "Simi Liu star joins in on the GTA 6 fun, saying Lucia wants you to see Avengers: Doomsday",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Get the best early Lego Black Friday deals 2026 here",
+   "url": "https://www.gamesradar.com/live/news/lego-black-friday-deals-in-2026-compared/",
+   "date": "2026-11-23T13:26:16.000Z",
+   "text": "The sale may be a few days away, but early Lego Black Friday deals are here now.",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "How to steal the Schafter V12 in GTA 6",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-schafter-v12/",
+   "date": "2026-11-23T13:08:09.000Z",
+   "text": "Prove yourself to Raul by yoinking this car.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "These Pokémon TCG deals from Walmart are worth buying, bringing set prices down to reasonable prices",
+   "url": "https://www.gamesradar.com/tabletop-gaming/walmart-has-loads-of-early-black-friday-pokemon-tcg-deals-and-ive-scoured-through-them-to-find-the-10-worth-buying/",
+   "date": "2026-11-23T13:01:52.000Z",
+   "text": "There are loads of Pokémon TCG deals at Walmart, but I've found 10 that bring bundles down to market prices, on all kinds of booster bundles and Trainer Boxes.",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "\"Cyberpunk 2 is cancelled,\" says the RPG's director after entering a \"GTA 6-induced\" depression",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/cyberpunk-2-is-cancelled-says-the-rpgs-director-after-entering-a-gta-6-induced-open-world-game-dev-depression/",
+   "date": "2026-11-23T13:01:40.000Z",
+   "text": "\"Just a technological and creative miracle\"",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6 revenue \"roughly equal\" to Spider-Man: Brand New Day and The Odyssey combined, analyst says",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-revenue-already-roughly-equal-to-spider-man-brand-new-day-and-the-odyssey-combined-analyst-says-and-thats-before-the-pc-port-and-gta-online/",
+   "date": "2026-11-23T13:01:16.000Z",
+   "text": "It's also eclipsed Taylor Swift's Eras Tour",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "DOOM: The Dark Ages Was Originally Planned As Xbox Exclusive",
+   "url": "https://www.purexbox.com/news/2026/11/doom-the-dark-ages-was-originally-planned-as-xbox-exclusive",
+   "date": "2026-11-23T13:00:00.000Z",
+   "text": "Late decision to put it on PS5. DOOM: The Dark Ages was originally designed as an Xbox exclusive, but late decisions led it to being ported to PS5. The news comes from a Kiwi Talkz podcast ,",
+   "source": "Pure Xbox",
+   "platform": "Xbox",
+   "topic": "news"
+  },
+  {
+   "title": "Adam Driver says he worked on The Hunt for Ben Solo for free",
+   "url": "https://www.gamesradar.com/entertainment/star-wars-movies/adam-driver-says-he-worked-on-the-hunt-for-ben-solo-for-free-and-kathleen-kennedy-was-so-confident-she-said-lucasfilm-had-a-100-percent-approval-rate-from-disney/",
+   "date": "2026-11-23T12:56:45.000Z",
+   "text": "Adam Driver opens up on The Hunt for Ben Solo",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
+   "url": "https://www.eurogamer.net/gta-6-metacritic-review-bomb",
+   "date": "2026-11-23T12:50:50.000Z",
+   "text": "In the wake of Grand Theft Auto 6 's release and the wave of glowing reviews it received, a war is raging in Metacritic's user reviews, with some of the medium's best games of all time caugh",
+   "source": "Eurogamer",
+   "platform": "General",
+   "topic": "reviews"
+  },
+  {
+   "title": "Hunger Games fans feel Sunrise on the Reaping's big flaw isn't the \"book inaccuracies\" but that it reveals too much",
+   "url": "https://www.gamesradar.com/entertainment/action-movies/hunger-games-fans-feel-sunrise-on-the-reapings-big-flaw-isnt-the-book-inaccuracies-but-that-it-reveals-too-much/",
+   "date": "2026-11-23T12:16:34.000Z",
+   "text": "Hunger Games fans feel Sunrise on the Reaping dumbs down franchise lore",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "GTA's treatment of women 'has not been good', says Rockstar vet delighted by 'long overdue' female protagonist in GTA 6",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gtas-treatment-of-women-has-not-been-good-says-rockstar-vet-delighted-by-long-overdue-female-protagonist-in-gta-6/",
+   "date": "2026-11-23T12:15:35.000Z",
+   "text": "Lucia has stans everywhere.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "OG Final Fantasy 7 director wanted more drastic changes for the JRPG remake",
+   "url": "https://www.gamesradar.com/games/final-fantasy/og-final-fantasy-7-director-wanted-more-drastic-changes-for-the-jrpg-remake-but-younger-staff-wanted-to-keep-it-faithful/",
+   "date": "2026-11-23T12:15:04.000Z",
+   "text": "One point of contention was the Mako Reactor's design",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Fans love this Lord of the Rings card game, and it's one of the best on Middle-earth",
+   "url": "https://www.gamesradar.com/tabletop-gaming/fans-adore-this-lord-of-the-rings-card-game-and-its-probably-one-of-the-best-on-middle-earth/",
+   "date": "2026-11-23T12:13:49.000Z",
+   "text": "The Lord of the Rings trick-taking card game series is incredibly popular, and has brilliant mechanics to back that up",
+   "source": "GamesRadar",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6 laptop password and where to find Auntie's Place in La Perle",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-laptop-password-aunties-place-la-perle/",
+   "date": "2026-11-23T12:10:56.000Z",
+   "text": "Solve Vanessa's laptop puzzle in the Vice City apartment.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "Deals: All 100+ Backwards Compatible Games In The Xbox Black Friday Sale 2026",
+   "url": "https://www.purexbox.com/news/2026/11/deals-all-100plus-backwards-compatible-games-in-the-xbox-black-friday-sale-2026",
+   "date": "2026-11-23T12:00:00.000Z",
+   "text": "Original Xbox and Xbox 360 classics. The Xbox Black Friday Sale for 2026 officially began last week, and as usual for a big sale like this, we've got almost 150 games from the original Xbox ",
+   "source": "Pure Xbox",
+   "platform": "Xbox",
+   "topic": "news"
+  },
+  {
+   "title": "Unsettling Silent Hill-Inspired Horror Game Confirmed For Switch 2",
+   "url": "https://www.nintendolife.com/news/2026/11/unsettling-silent-hill-inspired-horror-game-confirmed-for-switch-2",
+   "date": "2026-11-23T11:45:00.000Z",
+   "text": "Ohh God, the teeth. Konami has provided zero indication that it plans to bring any Silent Hill games to the Switch 2, so while we wallow in despair, we can at least take comfort in the knowl",
+   "source": "Nintendo Life",
+   "platform": "Nintendo",
+   "topic": "news"
+  },
+  {
+   "title": "GTA 6 Kit Car locations: How to restore the fourth car for Wyman",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+   "date": "2026-11-23T11:25:34.000Z",
+   "text": "Repair the Reynolds Kit Car by finding some wrecks.",
+   "source": "PC Gamer",
+   "platform": "PC",
+   "topic": "news"
+  },
+  {
+   "title": "Two More Games Confirmed For Xbox Game Pass In Early 2027",
+   "url": "https://www.purexbox.com/news/2026/11/two-more-games-confirmed-for-xbox-game-pass-in-early-2027",
+   "date": "2026-11-23T11:00:00.000Z",
+   "text": "Nightmare fuel to start the year. Who's up for some new release dates for Xbox Game Pass titles? Well, we've got two for you today, both of which are scheduled to join the service in early 2",
+   "source": "Pure Xbox",
+   "platform": "Xbox",
+   "topic": "news"
+  },
+  {
+   "title": "\"Woke Up To A S**t Show\" - Binding Of Isaac Dev Shocked To Find GenAI Music In ’Repentance+’",
+   "url": "https://www.nintendolife.com/news/2026/11/woke-up-to-a-st-show-binding-of-isaac-dev-shocked-to-find-genai-music-in-repentanceplus",
+   "date": "2026-11-23T11:00:00.000Z",
+   "text": "A weekend of review bombing. The Binding of Isaac: Repentance+ was one of a handful of games brave enough to launch on ' GTA Day ' last week, but while Rockstar has been swimming in positive",
+   "source": "Nintendo Life",
+   "platform": "Nintendo",
+   "topic": "news"
+  },
+  {
+   "title": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue",
+   "url": "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue",
+   "date": "2026-11-23T10:15:00.000Z",
+   "text": "One of 2027's big-hitters. New details regarding Kirby and the World Beyond have been revealed via Nintendo's winter catalogue in Japan (via Genki_JPN on X). While hardly comprehensive, it p",
+   "source": "Nintendo Life",
+   "platform": "Nintendo",
+   "topic": "news"
+  },
+  {
+   "title": "Queen's Domain review",
+   "url": "https://www.eurogamer.net/queens-domain-review",
+   "date": "2026-11-23T10:04:50.000Z",
+   "text": "Where to start with Queen's Domain? It's tempting to begin with King's Field; after all, FromSoftware's seminal first-person action-RPG is an explicit inspiration for developer Freshly Baked",
+   "source": "Eurogamer",
+   "platform": "General",
+   "topic": "reviews"
+  },
+  {
+   "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
+   "date": "2026-11-23T09:50:30.000Z",
+   "text": "If you've been a fan of Grand Theft Auto for a while, you might have noticed a strange absence in GTA 6 . While the game is packed full of different activities, the recurring pastime of dart",
+   "source": "Eurogamer",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you",
+   "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
+   "date": "2026-11-23T09:27:50.000Z",
+   "text": "Call of Duty publisher Activision has filed for a new patent allowing it to train NPCs on real-world player voice chat. The patent describes an AI-driven system that listens in on player voi",
+   "source": "Eurogamer",
+   "platform": "General",
+   "topic": "news"
+  },
+  {
+   "title": "QoR sweep Maryville to reach VCT Americas Kickoff North America playoffs after opening loss",
+   "url": "https://esportsinsider.com/2026/11/qor-sweep-maryville-university-for-second-straight-win-at-vct-americas-kickoff",
+   "date": "2026-11-23T07:13:19.000Z",
+   "text": "QoR's 2-0 win over Maryville University completed a recovery from an opening defeat at the VCT Americas Kickoff North America qualifiers. A Kickoff place and a Red Bull Home Ground spot both",
+   "source": "Esports Insider",
+   "platform": "General",
+   "topic": "esports"
+  },
   {
    "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
    "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
@@ -83,15 +596,6 @@
    "topic": "news"
   },
   {
-   "title": "The making of GTA 5: How the GTA 6 predecessor helped Rockstar pave the way for its return to Vice City with Jason and Lucia",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/the-making-of-gta-5-how-the-gta-6-predecessor-helped-rockstar-pave-the-way-for-its-return-to-vice-city-with-jason-and-lucia/",
-   "date": "2026-11-22T18:00:00.000Z",
-   "text": "Co-studio head Aaron Garbut explains world design, three main characters, and bringing Los Santos to life",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
    "date": "2026-11-22T17:51:53.000Z",
@@ -101,39 +605,12 @@
    "topic": "news"
   },
   {
-   "title": "Reynolds Kit Car locations in GTA 6: How to restore the fourth car in Wyman's Car Collection",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/",
-   "date": "2026-11-22T17:49:13.000Z",
-   "text": "Here's how you can find all the spare parts needed to restore the Reynolds in GTA 6",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 Mamba GT Locations: How to restore the third car in Wyman's Car Collection",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
-   "date": "2026-11-22T17:13:21.000Z",
-   "text": "You need to locate four Mamba GT scraps to get Wyman to restore this sweet sports car for you",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "How to steal the Declasse Vamos in GTA 6",
    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
    "date": "2026-11-22T17:04:39.000Z",
    "text": "Grab the code to unlock the garage and steal the car for Moses.",
    "source": "PC Gamer",
    "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 Riata locations: How to restore the second car in Wyman's Classic Car Collection",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
-   "date": "2026-11-22T17:01:30.000Z",
-   "text": "The second car in Wyman's Classic Car Collection is a lush '70s Riata and it can be yours if you can head to these three locations",
-   "source": "GamesRadar",
-   "platform": "General",
    "topic": "news"
   },
   {
@@ -152,15 +629,6 @@
    "text": "\"I want to celebrate this world that I spent literal years working on.\"",
    "source": "PC Gamer",
    "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 Transgressor Locations: How to restore the first car in Wyman's Classic Car Collection",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-transgressor-locations-wyman/",
-   "date": "2026-11-22T16:52:27.000Z",
-   "text": "Wyman's Classic Car Collection lets you access some classic rides, but you need to find them all first",
-   "source": "GamesRadar",
-   "platform": "General",
    "topic": "news"
   },
   {
@@ -200,42 +668,6 @@
    "topic": "news"
   },
   {
-   "title": "The GTAs that are still worth playing while you wait for GTA 6 on PC",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc/",
-   "date": "2026-11-22T15:00:00.000Z",
-   "text": "I bet GTA 6 doesn't even have a jetpack.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 Mamba GT locations: How to restore the third car for Wyman",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
-   "date": "2026-11-22T14:53:59.000Z",
-   "text": "Repair the '64 Mamba GT by finding some cars.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "The Binding of Isaac removes AI-generated music from new update",
-   "url": "https://www.gamesradar.com/games/roguelike/the-binding-of-isaac-removes-ai-generated-music-from-new-update-and-designer-edmund-mcmillen-is-looking-into-how-that-happened/",
-   "date": "2026-11-22T14:50:29.000Z",
-   "text": "Oops",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "How to get Arthur Morgan's Hat in GTA 6",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/",
-   "date": "2026-11-22T14:44:15.000Z",
-   "text": "Arthur Morgan's genuine cowboy hat is found in a yard sale.",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks",
    "url": "https://www.purexbox.com/news/2026/11/gta-6-glitch-unlocks-the-fps-on-xbox-series-xs-but-with-multiple-drawbacks",
    "date": "2026-11-22T14:00:00.000Z",
@@ -254,92 +686,11 @@
    "topic": "news"
   },
   {
-   "title": "The Legend of Zelda: Ocarina of Time's final cutscene was something Nintendo \"heavily discussed\"",
-   "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-times-emotional-final-cutscene-was-something-nintendo-heavily-discussed/",
-   "date": "2026-11-22T13:58:02.000Z",
-   "text": "Full circle",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "Can you free-roam after beating GTA 6?",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-play-after-credits-beating-the-game/",
-   "date": "2026-11-22T13:57:14.000Z",
-   "text": "You can keep playing GTA 6 after the credits, but there's some things you may want to know first",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 Riata locations: How to restore the second car for Wyman",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
-   "date": "2026-11-22T13:48:06.000Z",
-   "text": "Fix the '70 Riata by tracking down some wrecked cars.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/",
-   "date": "2026-11-22T13:32:23.000Z",
-   "text": "Give and take",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
-   "date": "2026-11-22T13:25:42.000Z",
-   "text": "\"Having that structure in the background as something we consistently refer to helps everything feel more real.\"",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
    "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
    "date": "2026-11-22T13:19:20.000Z",
    "text": "Nicalis has removed AI-generated music from The Binding of Isaac : Repentance+ after players discovered it in the game's latest update, prompting a wave of negative reviews on Steam. Read mo",
    "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 Challenges – all 80 challenges to complete",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-challenges/",
-   "date": "2026-11-22T13:08:12.000Z",
-   "text": "There are 80 challenges in GTA 6 split across eight different categories to complete",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
-   "date": "2026-11-22T13:04:45.000Z",
-   "text": "There are rows of GTA 6 tanks waiting to be liberated right from the start of the game, to earn the Challenging Tank award",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'",
-   "url": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
-   "date": "2026-11-22T12:44:48.000Z",
-   "text": "Despite this, Howard Scott Warshaw thinks AI will be a \"super positive thing\" for the industry.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "Sex in GTA 6 was extremely difficult to pull off, Rockstar says",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/sex-in-gta-6-was-extremely-difficult-to-pull-off-rockstar-says-we-needed-to-allow-players-to-interact-with-the-partner-in-a-natural-loving-way/",
-   "date": "2026-11-22T12:32:07.000Z",
-   "text": "Far from Hot Coffee",
-   "source": "GamesRadar",
    "platform": "General",
    "topic": "news"
   },
@@ -368,24 +719,6 @@
    "text": "A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network social features ban after sending a friend a photo they took in the game's nudist resort. Read more",
    "source": "Eurogamer",
    "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "How to flip an overturned car in GTA 6",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-flip-car/",
-   "date": "2026-11-22T11:13:33.000Z",
-   "text": "You can flip your car with brute strength in GTA 6.",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
-   "date": "2026-11-22T10:54:09.000Z",
-   "text": "Rockstar made a point of creating \"authentic characters that didn't stray too far from reality.\"",
-   "source": "PC Gamer",
-   "platform": "PC",
    "topic": "news"
   },
   {
@@ -443,15 +776,6 @@
    "topic": "news"
   },
   {
-   "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
-   "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
-   "date": "2026-11-22T03:03:45.000Z",
-   "text": "Her book's being written by award-winning author Tasha Suri.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
    "title": "\"We’re Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
    "url": "https://www.nintendolife.com/news/2026/11/were-going-bananas-for-our-newest-furry-friend-donkey-kong-out-now-on-build-a-bear-workshop",
    "date": "2026-11-22T00:00:00.000Z",
@@ -461,128 +785,11 @@
    "topic": "news"
   },
   {
-   "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
-   "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
-   "date": "2026-11-21T23:40:42.000Z",
-   "text": "You gotta hand it to them, but the payout sounds like it would have been small potatoes to the company.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
-   "date": "2026-11-21T21:42:29.000Z",
-   "text": "November 19 marked the highest-traffic day in the ISP's history.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain",
-   "url": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/",
-   "date": "2026-11-21T21:16:16.000Z",
-   "text": "In the name of \"more immersive and engaging player experiences,\" of course.",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?",
-   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
-   "date": "2026-11-21T20:32:43.000Z",
-   "text": "Meet with your lawyer or wait and do it later?",
-   "source": "PC Gamer",
-   "platform": "PC",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 The Final Flush mission walkthrough",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/",
-   "date": "2026-11-21T18:14:45.000Z",
-   "text": "How to start and complete The Final Flush optional mission in GTA 6.",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "\"Let's do with witches what I did with Assassins!\": AC pioneer on making 1666: Amsterdam",
-   "url": "https://www.gamesradar.com/games/rpg/lets-do-with-witches-what-i-did-with-assassins-patrice-desilets-assassins-creed-pioneer-on-ongoing-making-of-1666-amsterdam/",
-   "date": "2026-11-21T18:00:00.000Z",
-   "text": "From Ezio Auditore to 17th century witch hunts, Patrice Désilets talks 1666 Amsterdam's devilish origins, everchanging mechanics, and the process of making a game with a community",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "Unannounced Nioh 3 Complete Edition has been rated in Korea",
    "url": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
    "date": "2026-11-21T17:19:50.000Z",
    "text": "A rating for the unannounced Nioh 3 Complete Edition has popped up on Korea's Game Rating and Administration Committee ( GRAC ). Read more",
    "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "GTA 6 Equipment: All 12 pieces of equipment explained and how to unlock them",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
-   "date": "2026-11-21T16:40:00.000Z",
-   "text": "Get the essential key items in GTA 6 that will make you a more effective criminal",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "Should you shake Mattia's hand in GTA 6?",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mattia/",
-   "date": "2026-11-21T16:38:21.000Z",
-   "text": "Shaking Mattia's hand seems like quite an important moment in GTA 6",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "Learn how to get a mask in GTA 6 to stay anonymous when committing a crime",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/",
-   "date": "2026-11-21T16:35:00.000Z",
-   "text": "Learning how to buy, manage, and equip a mask in GTA 6 is vital for losing some of your Appearance Heat",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "How to unlock the Cut-Off Tool in GTA 6 so you can open up those yellow Scoop containers",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/",
-   "date": "2026-11-21T16:30:00.000Z",
-   "text": "If you want to get into yellow containers in GTA 6 to find secret vehicle stashes and weapons caches, you'll need the Cut-Off Tool first",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "How to unlock the Dye-Pack Jammer in GTA 6 to finally steal Marked Bills",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-dye-pack-jammer-how-to-unlock/",
-   "date": "2026-11-21T16:25:00.000Z",
-   "text": "Sick of Jason and Lucia getting covered in pink dye every time they touch a Marked Bill? Then you need the GTA 6 Dye-Pack Jammer",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "Where to get a Key Cloner in GTA 6 to steal premium cars",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-key-cloner-how-to-get/",
-   "date": "2026-11-21T16:25:00.000Z",
-   "text": "Here's how you can clone keys in GTA 6 and finally make some real money",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "How to get a Snap Gun in GTA 6 to quietly lockpick doors",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-snap-gun-how-to-get-use/",
-   "date": "2026-11-21T16:20:00.000Z",
-   "text": "The GTA 6 Snap Tool is an essential item which lets you get into locked doors without setting off alarms",
-   "source": "GamesRadar",
    "platform": "General",
    "topic": "news"
   },
@@ -605,29 +812,11 @@
    "topic": "news"
   },
   {
-   "title": "GTA 6 Pawn Shop safe code",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code/",
-   "date": "2026-11-21T15:58:32.000Z",
-   "text": "You won't find the GTA 6 pawn shop safe code by looking around, so here's how to get it",
-   "source": "GamesRadar",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week",
    "url": "https://www.eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6",
    "date": "2026-11-21T15:56:10.000Z",
    "text": "Phasmophobia 's next update, Resonance, arrives on 24th November, bringing a brand-new piece of ghost-hunting kit, more voice commands, and a move to the Unity 6 engine. Read more",
    "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "How to complete the GTA 6 Tourist Trap mission",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tourist-trap-walkthrough/",
-   "date": "2026-11-21T15:50:55.000Z",
-   "text": "Here's what you need to do and where you need to go to finish the Tourist Trap mission in GTA 6",
-   "source": "GamesRadar",
    "platform": "General",
    "topic": "news"
   },
@@ -821,15 +1010,6 @@
    "topic": "news"
   },
   {
-   "title": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation",
-   "url": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
-   "date": "2026-11-20T17:19:50.000Z",
-   "text": "An investigation into the workplace behavior of Nvidia co-founder Jensen Huang, who resigned recently after a series of extramarital affairs came to light, has uncovered decades of harassmen",
-   "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "Share of the Week: Texture",
    "url": "https://blog.playstation.com/2026/11/20/share-of-the-week-texture/",
    "date": "2026-11-20T17:00:19.000Z",
@@ -848,15 +1028,6 @@
    "topic": "news"
   },
   {
-   "title": "13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation",
-   "url": "https://www.eurogamer.net/final-fantasy-7-bootleg-tifa-figurine-china-13-arrested",
-   "date": "2026-11-20T16:39:30.000Z",
-   "text": "Chinese police have arrested 13 individuals in Shanghai allegedly involved in a bootleg Final Fantasy 7 Tifa figurine business, after consumers reported the operation. They are currently bei",
-   "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "HDR Expert Shares Their Three Recommended Display Settings For GTA 6",
    "url": "https://www.purexbox.com/news/2026/11/hdr-expert-shares-their-three-recommended-display-settings-for-gta-6",
    "date": "2026-11-20T16:00:00.000Z",
@@ -866,39 +1037,12 @@
    "topic": "news"
   },
   {
-   "title": "GTA 6 players are already pulling off high-flying tricks and other impressive stunts, just days after launch",
-   "url": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
-   "date": "2026-11-20T15:59:00.000Z",
-   "text": "One of the best things to emerge from Grand Theft Auto over the years has been the community's truly spectacular stunts: players soaring under bridges, leaping across buildings, and more. An",
-   "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is",
-   "url": "https://www.eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon",
-   "date": "2026-11-20T15:54:10.000Z",
-   "text": "Fuse Games, the developer of Star Wars: Galactic Racer, has said it \"didn't dream\" the pod racing game's background character Biddy Blas would become as popular as he has. Read more",
-   "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)",
    "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe",
    "date": "2026-11-20T15:30:00.000Z",
    "text": "And you'll need to pass the criteria to register interest. We've been keeping an eye out for news of Nintendo's playable and electric ocarinas going on sale in Europe for a good while now. I",
    "source": "Nintendo Life",
    "platform": "Nintendo",
-   "topic": "news"
-  },
-  {
-   "title": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida",
-   "url": "https://www.eurogamer.net/gta-6-early-game-connection-rockstar-gta-5",
-   "date": "2026-11-20T15:19:30.000Z",
-   "text": "Are you wondering how connected the worlds of GTA 5 and GTA 6 are? Well, I've got some news for you. Keep on reading below if you'd like some very minor spoilers for the early game of GTA 6,",
-   "source": "Eurogamer",
-   "platform": "General",
    "topic": "news"
   },
   {
@@ -929,15 +1073,6 @@
    "topic": "news"
   },
   {
-   "title": "I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment",
-   "url": "https://www.eurogamer.net/tenebrae-lux-gta-6-now-playing",
-   "date": "2026-11-20T13:21:00.000Z",
-   "text": "\"We are but Promethean wanderers on the fringes of oblivion, clinging to a semblance of light amidst the vast abyss of our own ignorance. Voyaging uncharted waters may appear foolish to some",
-   "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "Zelda Switch 2 Console Is Back In Stock Soon If You Missed Out (US)",
    "url": "https://www.nintendolife.com/news/2026/11/zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-out-us",
    "date": "2026-11-20T13:15:00.000Z",
@@ -947,39 +1082,12 @@
    "topic": "news"
   },
   {
-   "title": "UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a \"British success story\"",
-   "url": "https://www.eurogamer.net/gta-6-uk-prime-minister-andy-burnham",
-   "date": "2026-11-20T13:08:30.000Z",
-   "text": "Grand Theft Auto 6 's seismic launch has registered on a governmental level. A spokesperson for UK Prime Minister Andy Burnham has hailed the game as a \"British success story\", but confirmed",
-   "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
-   "title": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
-   "url": "https://www.eurogamer.net/gta-6-spoiler-free-advice",
-   "date": "2026-11-20T12:33:10.000Z",
-   "text": "It's launch weekend for GTA 6 - in case you hadn't noticed - and since I've played the best part of a hundred hours of this thing, I thought it might be useful to share a few pieces of advic",
-   "source": "Eurogamer",
-   "platform": "General",
-   "topic": "news"
-  },
-  {
    "title": "Report: Xbox’s New Zealand Trick Has Been Used By Crazy Numbers Of People This Week",
    "url": "https://www.purexbox.com/news/2026/11/report-xboxs-new-zealand-trick-has-been-used-by-crazy-numbers-of-people-this-week",
    "date": "2026-11-20T12:30:00.000Z",
    "text": "For better or worse. Ahead of the launch of GTA 6 , there was a whole lot of talk online about the Xbox \"New Zealand trick\" and how people could get early access to the game by switching the",
    "source": "Pure Xbox",
    "platform": "Xbox",
-   "topic": "news"
-  },
-  {
-   "title": "Total War: Warhammer 40,000 breaks the game into star system mini-campaigns, each with their own stories and objectives",
-   "url": "https://www.eurogamer.net/total-war-warhammer-40000-campaign-space-marines",
-   "date": "2026-11-20T12:12:10.000Z",
-   "text": "There is perhaps nothing so brutal in a Total War game than getting an army full of elite units wiped out, and it appears that pain remains a factor in the upcoming Total War conversion of :",
-   "source": "Eurogamer",
-   "platform": "General",
    "topic": "news"
   },
   {
@@ -1019,33 +1127,6 @@
    "topic": "news"
   },
   {
-   "title": "Toby Fox Shares Deltarune Chapter 6 And 7 Development Update",
-   "url": "https://www.nintendolife.com/news/2026/11/toby-fox-shares-deltarune-chapter-6-and-7-development-update",
-   "date": "2026-11-20T02:30:00.000Z",
-   "text": "The sixth chapter is \"progressing well\". Toby Fox, the creator of Deltarune (and Undertale ), has this week released his 'Fall 2026' newsletter, giving fans a \"status update\" on Chapter 6...",
-   "source": "Nintendo Life",
-   "platform": "Nintendo",
-   "topic": "news"
-  },
-  {
-   "title": "Call Of Duty: Modern Warfare 4 Tops \"Best-Selling\" Games In October (US)",
-   "url": "https://www.nintendolife.com/news/2026/11/call-of-duty-modern-warfare-4-tops-best-selling-games-in-october-us",
-   "date": "2026-11-20T01:30:00.000Z",
-   "text": "CoD has dominated for 19 consecutive years in its debut month. October was another action-packed month for 2026, with Call of Duty: Modern Warfare 4 dropping on Switch 2, and other titles su",
-   "source": "Nintendo Life",
-   "platform": "Nintendo",
-   "topic": "news"
-  },
-  {
-   "title": "LEGO City Undercover’s Developer Is Teasing \"Something\"",
-   "url": "https://www.nintendolife.com/news/2026/11/lego-city-undercovers-developer-is-teasing-something",
-   "date": "2026-11-20T00:30:00.000Z",
-   "text": "Update: It's a \"massive\" world map image. If you're itching to jump into a busy city filled with chaos, you might want to keep an eye on TT Games this week. The developer behind multiple LEG",
-   "source": "Nintendo Life",
-   "platform": "Nintendo",
-   "topic": "news"
-  },
-  {
    "title": "GTA 6 First-Person Glitch Discovered, And It Works On Xbox & PS5",
    "url": "https://www.purexbox.com/news/2026/11/gta-6-first-person-glitch-discovered-and-it-works-on-xbox-and-ps5",
    "date": "2026-11-20T00:28:00.000Z",
@@ -1061,24 +1142,6 @@
    "text": "One of the biggest sales of the year! It's time for the Xbox Black Friday Sale 2026 ! This year's version of the Black Friday sale features discounts for over 2,000 titles in all, and as alw",
    "source": "Pure Xbox",
    "platform": "Xbox",
-   "topic": "news"
-  },
-  {
-   "title": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 19)",
-   "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19",
-   "date": "2026-11-19T19:30:00.000Z",
-   "text": "Barbenhammer. It's time for North America's Nintendo Download update and our Switch eShop round-up for November 19th . With a certain big game arriving on other platforms, many publishers ar",
-   "source": "Nintendo Life",
-   "platform": "Nintendo",
-   "topic": "news"
-  },
-  {
-   "title": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)",
-   "url": "https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us",
-   "date": "2026-11-19T18:45:00.000Z",
-   "text": "Wa wa Wii wa! In case you need another reminder of how old you are, the Wii has just turned 20 years old in North America (those in Europe have until 8th December to hit the milestone). To c",
-   "source": "Nintendo Life",
-   "platform": "Nintendo",
    "topic": "news"
   },
   {
@@ -1118,33 +1181,6 @@
    "topic": "news"
   },
   {
-   "title": "’Xbox Remote Play Has Been Incredible’ - GTA 6 Players Are Giving This Xbox Feature Its Flowers",
-   "url": "https://www.purexbox.com/news/2026/11/xbox-remote-play-has-been-incredible-gta-6-players-are-giving-this-xbox-feature-its-flowers",
-   "date": "2026-11-19T13:00:00.000Z",
-   "text": "\"Honestly, one of the most underrated features in the Xbox ecosystem\". The long wait for Grand Theft Auto 6 is finally over, with players flocking to their Xbox consoles to boot up the lates",
-   "source": "Pure Xbox",
-   "platform": "Xbox",
-   "topic": "news"
-  },
-  {
-   "title": "Guide: GTA 6 Cheat Codes: All Reveals So Far, And How To Unlock Them On Xbox",
-   "url": "https://www.purexbox.com/guides/gta-6-cheat-codes-all-reveals-so-far-and-how-to-unlock-them-on-xbox",
-   "date": "2026-11-19T12:00:00.000Z",
-   "text": "They work a bit differently this time around. The ability to use cheats has long been synonymous with the GTA franchise, and now that GTA 6 is out in the world, players have already been try",
-   "source": "Pure Xbox",
-   "platform": "Xbox",
-   "topic": "news"
-  },
-  {
-   "title": "Five Xbox Games Are Releasing Today, Including The Big One You Probably Know About (November 19)",
-   "url": "https://www.purexbox.com/news/2026/11/five-xbox-games-are-releasing-today-including-the-big-one-you-probably-know-about-november-19",
-   "date": "2026-11-19T11:00:00.000Z",
-   "text": "Happy GTA 6 Day! Well, does today really need an introduction? Probably not, but either way, welcome back to your daily roundup of all the new games launching on Xbox! It's been 13 years but",
-   "source": "Pure Xbox",
-   "platform": "Xbox",
-   "topic": "news"
-  },
-  {
    "title": "Fnatic confirms Razork exit as Lospa’s SK Gaming move deepens 2027 rebuild",
    "url": "https://esportsinsider.com/2026/11/fnatic-confirms-razork-exit-as-lospas-sk-gaming-move-deepens-2027-rebuild",
    "date": "2026-11-19T08:28:25.000Z",
@@ -1152,33 +1188,6 @@
    "source": "Esports Insider",
    "platform": "General",
    "topic": "esports"
-  },
-  {
-   "title": "Three Major New Games Have Added Free Xbox Trials And Demos",
-   "url": "https://www.purexbox.com/news/2026/11/three-major-new-games-have-added-free-xbox-trials-and-demos",
-   "date": "2026-11-18T19:30:00.000Z",
-   "text": "All of them well worth a play. We don't tend to highlight demos and trials on the Xbox Store all that often, but when you get multiple recent releases (some of them AAA) suddenly getting fre",
-   "source": "Pure Xbox",
-   "platform": "Xbox",
-   "topic": "news"
-  },
-  {
-   "title": "Xbox Unveils New Halo Background & Default ’Event’ Background For GTA 6",
-   "url": "https://www.purexbox.com/news/2026/11/xbox-unveils-new-halo-background-and-default-event-background-for-gta-6",
-   "date": "2026-11-18T18:00:00.000Z",
-   "text": "If you're seeing it, now you know why. If you've turned on your Xbox console today and been presented with a background for GTA 6 without selecting it, there's a reason for that. Xbox is pro",
-   "source": "Pure Xbox",
-   "platform": "Xbox",
-   "topic": "news"
-  },
-  {
-   "title": "Multiple Games Are Available Today On Xbox, Including One With GTA & Zelda Inspirations (November 18)",
-   "url": "https://www.purexbox.com/news/2026/11/multiple-games-are-available-today-on-xbox-including-one-with-gta-and-zelda-inspirations-november-18",
-   "date": "2026-11-18T17:00:00.000Z",
-   "text": "Plus three Xbox Game Pass Premium titles. Just in case you wanted a break from the GTA news , we thought we'd remind you that we've got a few games either releasing or being added to Xbox Ga",
-   "source": "Pure Xbox",
-   "platform": "Xbox",
-   "topic": "news"
   },
   {
    "title": "Grand Theft Auto VI launches tomorrow, November 19",
@@ -1271,15 +1280,6 @@
    "topic": "news"
   },
   {
-   "title": "Dota 2 returns to Esports World Cup 2027 as PARIVISION chase a first repeat title",
-   "url": "https://esportsinsider.com/2026/11/dota-2-returns-to-esports-world-cup-2027-as-parivision-chase-a-first-repeat-title",
-   "date": "2026-11-13T13:08:16.000Z",
-   "text": "Dota 2 will return to the Riyadh-hosted Esports World Cup in 2027, though dates, format and prize money are still to come. The title has never been won twice, and its prize pool has fallen a",
-   "source": "Esports Insider",
-   "platform": "General",
-   "topic": "esports"
-  },
-  {
    "title": "Guild Saga: Vanished Worlds brings tactical adventure to PS5 in May 2027",
    "url": "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027/",
    "date": "2026-11-13T13:01:11.000Z",
@@ -1310,17 +1310,6 @@
  "steam": [
   {
    "store": "Steam",
-   "title": "It Takes Two",
-   "pct": 80,
-   "old": 39.99,
-   "price": 7.99,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg?t=1777395376",
-   "url": "https://store.steampowered.com/app/1426210/",
-   "ends": "2026-12-03T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
    "title": "FINAL FANTASY VII REBIRTH",
    "pct": 85,
    "old": 49.99,
@@ -1328,17 +1317,6 @@
    "currency": "EUR",
    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
    "url": "https://store.steampowered.com/app/2909400/",
-   "ends": "2026-12-02T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-   "pct": 82,
-   "old": 39.99,
-   "price": 7.19,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-   "url": "https://store.steampowered.com/app/1462040/",
    "ends": "2026-12-02T18:00:00.000Z"
   },
   {
@@ -1354,47 +1332,25 @@
   },
   {
    "store": "Steam",
-   "title": "Marvel’s Spider-Man Remastered",
-   "pct": 60,
-   "old": 59.99,
-   "price": 23.99,
+   "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+   "pct": 82,
+   "old": 39.99,
+   "price": 7.19,
    "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
-   "url": "https://store.steampowered.com/app/1817070/",
-   "ends": "2026-12-01T18:00:00.000Z"
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+   "url": "https://store.steampowered.com/app/1462040/",
+   "ends": "2026-12-02T18:00:00.000Z"
   },
   {
    "store": "Steam",
-   "title": "Forza Horizon 6",
-   "pct": 25,
-   "old": 69.99,
-   "price": 52.49,
+   "title": "It Takes Two",
+   "pct": 80,
+   "old": 39.99,
+   "price": 7.99,
    "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
-   "url": "https://store.steampowered.com/app/2483190/",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg?t=1777395376",
+   "url": "https://store.steampowered.com/app/1426210/",
    "ends": "2026-12-03T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "God of War",
-   "pct": 60,
-   "old": 49.99,
-   "price": 19.99,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-   "url": "https://store.steampowered.com/app/1593500/",
-   "ends": "2026-12-01T18:00:00.000Z"
-  },
-  {
-   "store": "Steam",
-   "title": "Crimson Desert Enhanced",
-   "pct": 20,
-   "old": 69.99,
-   "price": 55.99,
-   "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1794478066",
-   "url": "https://store.steampowered.com/app/3321460/",
-   "ends": "2026-11-30T08:00:00.000Z"
   },
   {
    "store": "Steam",
@@ -1409,14 +1365,58 @@
   },
   {
    "store": "Steam",
-   "title": "just volleyball",
-   "pct": 38,
-   "old": 7.79,
-   "price": 4.82,
+   "title": "Forza Horizon 6",
+   "pct": 25,
+   "old": 69.99,
+   "price": 52.49,
    "currency": "EUR",
-   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-   "url": "https://store.steampowered.com/app/5037200/",
-   "ends": "2026-11-24T18:00:18.000Z"
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
+   "url": "https://store.steampowered.com/app/2483190/",
+   "ends": "2026-12-03T18:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "Crimson Desert Enhanced",
+   "pct": 20,
+   "old": 69.99,
+   "price": 55.99,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1794478066",
+   "url": "https://store.steampowered.com/app/3321460/",
+   "ends": "2026-11-30T08:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "The Last of Us™ Parte II Remastered",
+   "pct": 33,
+   "old": 49.99,
+   "price": 33.49,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+   "url": "https://store.steampowered.com/app/2531310/",
+   "ends": "2026-12-01T18:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "Marvel’s Spider-Man Remastered",
+   "pct": 60,
+   "old": 59.99,
+   "price": 23.99,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+   "url": "https://store.steampowered.com/app/1817070/",
+   "ends": "2026-12-01T18:00:00.000Z"
+  },
+  {
+   "store": "Steam",
+   "title": "Legión del azar - Slotbound",
+   "pct": 10,
+   "old": 9.69,
+   "price": 8.72,
+   "currency": "EUR",
+   "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1795095339",
+   "url": "https://store.steampowered.com/app/4459590/",
+   "ends": "2026-11-26T18:00:33.000Z"
   }
  ],
  "epic": {
